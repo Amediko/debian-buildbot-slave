@@ -6,7 +6,7 @@ Uploaders: Matthias Klose <doko@debian.org>
 Build-Depends: debhelper (>= 7.0.50~),
  python-all (>= 2.6.6-3),
  python-twisted-core (>=2.0),
- python-mock,
+ python-mock(>= 0.8),
  bash-completion
 Homepage: http://buildbot.net
 Standards-Version: 3.9.5
