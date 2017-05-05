@@ -1,3 +1,9 @@
+buildbot-worker (0.9.6-1) unstable; urgency=medium
+
+  * Upgrade to buildbot-worker
+
+ -- Alexey Slynko <slynko@tronet.ru>  Fri, 5 May 2017 14:52:54 +0300
+
 buildbot-slave (0.8.9-2) unstable; urgency=medium
 
   * Allow single instance restart (Closes: #661102)

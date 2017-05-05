@@ -28,9 +28,9 @@ developers are inconvenienced by the failure.  Features
   builds in front of developers in a timely manner. 
 
 
-Buildslave:
+Buildbot-worker:
 
-This package contains only the buildslave implementation.  The buildbot package
+This package contains only the buildbot-worker implementation.  The buildbot package
 contains the buildmaster as well as a complete set of documentation.
 
 See http://buildbot.net for more information and for an online version of the

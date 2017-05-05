@@ -3,5 +3,5 @@ set -e
 
 cd "$ADTTMP"
 for py in $(pyversions -vi) ; do
-  python$py /usr/bin/trial buildslave.test
+  python$py /usr/bin/trial buildbot-worker.test
 done
